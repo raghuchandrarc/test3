@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name=" Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="58.115">
+  <properties />
+  
+  
+            <testcase name="BookAppointment" time="43.768" classname="com.actions.ExecuteTestCases ( )" />
+                <testcase name="Reuse_Login" time="14.347" classname="com.actions.ExecuteTestCases ( )" />
+      
+</testsuite>

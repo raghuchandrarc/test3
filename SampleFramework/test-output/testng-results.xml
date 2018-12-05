@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Test  Test]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[listOfTestCases=============*****************[Reuse_Login, BookAppointment]]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameBookAppointment----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameCapturedObjectProperties----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameReuse_Login----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[sheetNamelogin----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameBookAppointment_DS----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameConstants----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of columns]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[About to start executing Test Reuse_Login]]>
+    </line>
+    <line>
+      <![CDATA[<=========================Begin Of TestStep=========================>]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>Login]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>Inputusername]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>enterText]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[John Doe]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>Login]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>InputPwd]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>enterText]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[ThisIsNotAPassword]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>Login]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>Clicklogin]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>click]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Clicked]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Test case name :Reuse_Login]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[<=========================End Of TestStep=========================>]]>
+    </line>
+    <line>
+      <![CDATA[																		]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Name :Reuse_Login]]>
+    </line>
+    <line>
+      <![CDATA[About to start executing Test BookAppointment]]>
+    </line>
+    <line>
+      <![CDATA[<=========================Begin Of TestStep=========================>]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>select facility]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>selectDropDownByVisibleText]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Hongkong CURA Healthcare Center]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>hospitalreadmission]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>click]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Clicked]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>healthcarepgm]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>selectRadioButton]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Clicked]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>visitdate]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>enterText]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[14/12/2018]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>comment]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>enterText]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Blood pressure Electrocardiogram(ECG)
+ blood sugar level]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>BookAppointment]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>click]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Clicked]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>confirm appointment]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>verifyText]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Appointment Confirmation]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>logoutmenu]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>click]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Clicked]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>logout]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>click]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[Clicked]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>BookAppointmentPage]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>closebrowser]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>quit]]>
+    </line>
+    <line>
+      <![CDATA[InputData =====================>[NA]]]>
+    </line>
+    <line>
+      <![CDATA[testCaseExecution ====>1]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[																	]]>
+    </line>
+    <line>
+      <![CDATA[Page ==============================>null]]>
+    </line>
+    <line>
+      <![CDATA[Object or Locators ================>null]]>
+    </line>
+    <line>
+      <![CDATA[Action Keyword =====================>null]]>
+    </line>
+    <line>
+      <![CDATA[Test case name :BookAppointment]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[<=========================End Of TestStep=========================>]]>
+    </line>
+    <line>
+      <![CDATA[																		]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Name :BookAppointment]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2018-12-05T04:38:39Z" name="Test Suite" finished-at="2018-12-05T04:39:52Z" duration-ms="73144">
+    <groups>
+    </groups>
+    <test started-at="2018-12-05T04:38:39Z" name=" Test" finished-at="2018-12-05T04:39:52Z" duration-ms="73144">
+      <class name="com.actions.ExecuteTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actions.ExecuteTestCases@4602e14c]" started-at="2018-12-05T10:08:39Z" name="setup" test-instance-name=" " finished-at="2018-12-05T10:08:54Z" duration-ms="15002" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[listOfTestCases=============*****************[Reuse_Login, BookAppointment]]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameBookAppointment----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameCapturedObjectProperties----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameReuse_Login----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[sheetNamelogin----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameBookAppointment_DS----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameConstants----sheetName, pathOFFileTestSuites&TestCases\TestCases.xlsx]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of columns]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testData([Ljava.lang.Object;)[pri:0, instance:com.actions.ExecuteTestCases@4602e14c]" started-at="2018-12-05T10:08:54Z" name="testData" test-instance-name=" " finished-at="2018-12-05T10:08:54Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@11b22c9a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method signature="InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4602e14c]" started-at="2018-12-05T10:08:54Z" name="BookAppointment" data-provider="dp" test-instance-name=" " finished-at="2018-12-05T10:09:08Z" duration-ms="14347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Reuse_Login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<=========================Begin Of TestStep=========================>]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>Login]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>Inputusername]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>enterText]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[John Doe]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>Login]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>InputPwd]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>enterText]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[ThisIsNotAPassword]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>Login]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>Clicklogin]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>click]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Clicked]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Test case name :Reuse_Login]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[<=========================End Of TestStep=========================>]]>
+            </line>
+            <line>
+              <![CDATA[																		]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BookAppointment -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:com.actions.ExecuteTestCases@4602e14c]" started-at="2018-12-05T10:09:08Z" name="setResultTestName" test-instance-name=" " finished-at="2018-12-05T10:09:08Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Reuse_Login status=SUCCESS method=ExecuteTestCases.InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4602e14c] output=<=========================Begin Of TestStep=========================>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Name :Reuse_Login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method signature="InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4602e14c]" started-at="2018-12-05T10:09:08Z" name="BookAppointment" data-provider="dp" test-instance-name=" " finished-at="2018-12-05T10:09:52Z" duration-ms="43768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BookAppointment]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<=========================Begin Of TestStep=========================>]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>select facility]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>selectDropDownByVisibleText]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Hongkong CURA Healthcare Center]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>hospitalreadmission]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>click]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Clicked]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>healthcarepgm]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>selectRadioButton]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Clicked]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>visitdate]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>enterText]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[14/12/2018]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>comment]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>enterText]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Blood pressure Electrocardiogram(ECG)
+ blood sugar level]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>BookAppointment]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>click]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Clicked]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>confirm appointment]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>verifyText]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Appointment Confirmation]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>logoutmenu]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>click]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Clicked]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>logout]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>click]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[Clicked]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>BookAppointmentPage]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>closebrowser]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>quit]]>
+            </line>
+            <line>
+              <![CDATA[InputData =====================>[NA]]]>
+            </line>
+            <line>
+              <![CDATA[testCaseExecution ====>1]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[																	]]>
+            </line>
+            <line>
+              <![CDATA[Page ==============================>null]]>
+            </line>
+            <line>
+              <![CDATA[Object or Locators ================>null]]>
+            </line>
+            <line>
+              <![CDATA[Action Keyword =====================>null]]>
+            </line>
+            <line>
+              <![CDATA[Test case name :BookAppointment]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[<=========================End Of TestStep=========================>]]>
+            </line>
+            <line>
+              <![CDATA[																		]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BookAppointment -->
+        <test-method is-config="true" signature="testData([Ljava.lang.Object;)[pri:0, instance:com.actions.ExecuteTestCases@4602e14c]" started-at="2018-12-05T10:09:08Z" name="testData" test-instance-name=" " finished-at="2018-12-05T10:09:08Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@45b3d17d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:com.actions.ExecuteTestCases@4602e14c]" started-at="2018-12-05T10:09:52Z" name="setResultTestName" test-instance-name=" " finished-at="2018-12-05T10:09:52Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BookAppointment status=SUCCESS method=ExecuteTestCases.InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4602e14c] output=<=========================Begin Of TestStep=========================>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Name :BookAppointment]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setResultTestName -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.actions.ExecuteTestCases@4602e14c]" started-at="2018-12-05T10:09:52Z" name="cleanup" test-instance-name=" " finished-at="2018-12-05T10:09:52Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.actions.ExecuteTestCases -->
+    </test> <!--  Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>
