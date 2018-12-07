@@ -63,7 +63,7 @@ public class MainTestNG {
 	 */
 	public void testng() {
 		// RegressionSuite
-		System.out.println("Begin test suite");
+		
 		TestNG objTestNG = new TestNG();
 		XmlSuite TSuite = new XmlSuite();
 		TSuite.setName("Test Suite");
@@ -72,7 +72,7 @@ public class MainTestNG {
 		TSuite.addListener("util.TestListener");
 		objTestNG.setOutputDirectory("test-output");
 		XmlTest myTest = new XmlTest(TSuite);
-		myTest.setName(" Test");
+		myTest.setName(" Test Suite Begin...");
 		List<XmlClass> myClasses = new ArrayList<XmlClass>();
 		myClasses.add(new XmlClass("com.actions.ExecuteTestCases"));
 		myTest.setXmlClasses(myClasses);

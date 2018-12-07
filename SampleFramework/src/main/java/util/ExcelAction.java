@@ -99,6 +99,8 @@ public class ExcelAction {
 		
 		List testStepId = temp.getTestStepId();
 		
+		System.out.println("Begin of Testcase ID == "+testStepId);
+		
 		
 		Reporter.log("<=========================Begin Of TestStep=========================>");
 
@@ -284,8 +286,10 @@ public class ExcelAction {
 	/**
 	 * Read the content of the excel testcase sheet and store the data in model
 	 * and store this model in hashmap
+	 * @throws InvalidFormatException 
+	 * @throws IOException 
 	 */
-	public void readTestCaseInExcel() {
+	public void readTestCaseInExcel() throws InvalidFormatException, IOException {
 
 		String testsheetnme = "TestCase_SheetName";
 		String testCasePath = config.getConfigValues(testcasepth);
@@ -304,7 +308,7 @@ public class ExcelAction {
 					
 					String ReusetestCaseSheetName =tc.getTestCaseName();
 					String TestCaseSheetName =tc.getTestCaseName();
-					
+					System.out.println("Running Test cases " +TestCaseSheetName);
 				if(ReusetestCaseSheetName.startsWith(Reuse)){
 					for (int row1 = 1; row1 <= ExcelLibrary.getRows(ReusetestCaseSheetName, testCasePath); row1++) {
 						if (!(ExcelLibrary.readCell(row1, 0, ReusetestCaseSheetName, testCasePath).isEmpty())) {
@@ -384,6 +388,8 @@ public class ExcelAction {
 					catch (InvalidFormatException e) {
 
 						MainTestNG.LOGGER.info(e.getMessage());
+						throw new InvalidFormatException(
+								"Invalid format in test case sheet " + e);
 					} catch (IOException e) {
 
 						MainTestNG.LOGGER.info(e.getMessage());
@@ -421,9 +427,13 @@ public class ExcelAction {
 		} catch (InvalidFormatException e) {
 
 			MainTestNG.LOGGER.info(e.getMessage());
+			throw new InvalidFormatException(
+					"Invalid format in test case sheet " + e);
 		} catch (IOException e) {
 
 			MainTestNG.LOGGER.info(e.getMessage());
+			throw new IOException(
+					"Io exception " + e);
 		}
 	}
 

@@ -6,10 +6,12 @@ package com.actions;
  * 
  */
 import java.awt.event.WindowEvent;
+import java.io.IOException;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -68,9 +70,11 @@ public class ExecuteTestCases implements ITest {
 	/**
 	 * In this class, this is the first method to be executed. Reading testsuite
 	 * , test case sheet and data sheet and storing the values in Hashmap
+	 * @throws IOException 
+	 * @throws InvalidFormatException 
 	 **/
 	@BeforeClass
-	public void setup() {
+	public void setup() throws InvalidFormatException, IOException {
 		MainTestNG.LOGGER.info("**************************Begin Read Excel Data *********************************");
 		System.out.println    (" 																				  ");					
 		MainTestNG.LOGGER.info(ExecuteTestCases.class.getName() + "   setup() method called");
@@ -205,6 +209,7 @@ public class ExecuteTestCases implements ITest {
 	public void InitialTest(String testName) throws Exception {
 		MainTestNG.LOGGER.info("****************************************Begin***********************************************************");
 		System.out.println    (" 																				  ");
+		System.out.println    ("Reading test case "+testName);
 				
 		MainTestNG.LOGGER.info(ExecuteTestCases.class.getName() + "  @Test method called" + "    " + testName);
 
