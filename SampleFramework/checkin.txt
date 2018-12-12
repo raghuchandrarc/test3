@@ -3,4 +3,6 @@ addded line
 
 added line2
 
-added lin3
+added line3
+
+added line4
