@@ -2,7 +2,7 @@
 <testng-results total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[About to begin executing Test  Test Suite Begin...]]>
+      <![CDATA[About to begin executing Test  Test Suites Report]]>
     </line>
     <line>
       <![CDATA[getting total number of rows]]>
@@ -89,43 +89,49 @@
       <![CDATA[getting total number of rows]]>
     </line>
     <line>
-      <![CDATA[sheetNameReuse_Logout----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[getting total number of rows]]>
+    </line>
+    <line>
+      <![CDATA[sheetNameReuse_Logout----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
     </line>
     <line>
       <![CDATA[getting total number of columns]]>
     </line>
     <line>
-      <![CDATA[sheetNameBookAppointment----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+      <![CDATA[sheetNameBookAppointment----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
     </line>
     <line>
       <![CDATA[getting total number of columns]]>
     </line>
     <line>
-      <![CDATA[sheetNameCapturedObjectProperties----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+      <![CDATA[sheetNameCapturedObjectProperties----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
     </line>
     <line>
       <![CDATA[getting total number of columns]]>
     </line>
     <line>
-      <![CDATA[sheetNameReuse_Login----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+      <![CDATA[sheetNameReuse_Login----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
     </line>
     <line>
       <![CDATA[getting total number of columns]]>
     </line>
     <line>
-      <![CDATA[sheetNamelogin----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+      <![CDATA[sheetNamelogin----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
     </line>
     <line>
       <![CDATA[getting total number of columns]]>
     </line>
     <line>
-      <![CDATA[sheetNameBookAppointment_DS----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+      <![CDATA[sheetNameBookAppointment_DS----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
     </line>
     <line>
       <![CDATA[getting total number of columns]]>
     </line>
     <line>
-      <![CDATA[sheetNameConstants----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+      <![CDATA[sheetNameConstants----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
     </line>
     <line>
       <![CDATA[getting total number of columns]]>
@@ -215,7 +221,7 @@
       <![CDATA[																		]]>
     </line>
     <line>
-      <![CDATA[Test Case Name :Reuse_Login]]>
+      <![CDATA[Test Case Name :Test]]>
     </line>
     <line>
       <![CDATA[About to start executing Test BookAppointment]]>
@@ -296,7 +302,7 @@
       <![CDATA[Action Keyword =====================>enterText]]>
     </line>
     <line>
-      <![CDATA[InputData =====================>[17/12/2018]]]>
+      <![CDATA[InputData =====================>[24/12/2018]]]>
     </line>
     <line>
       <![CDATA[testCaseExecution ====>1]]>
@@ -393,7 +399,7 @@
       <![CDATA[																		]]>
     </line>
     <line>
-      <![CDATA[Test Case Name :BookAppointment]]>
+      <![CDATA[Test Case Name :Test]]>
     </line>
     <line>
       <![CDATA[About to start executing Test Reuse_Logout]]>
@@ -477,15 +483,15 @@
       <![CDATA[																		]]>
     </line>
     <line>
-      <![CDATA[Test Case Name :Reuse_Logout]]>
+      <![CDATA[Test Case Name :Test]]>
     </line>
   </reporter-output>
-  <suite started-at="2018-12-07T07:10:45Z" name="Test Suite" finished-at="2018-12-07T07:11:48Z" duration-ms="62308">
+  <suite started-at="2018-12-14T12:36:15Z" name="Test Suite Report" finished-at="2018-12-14T12:37:21Z" duration-ms="65497">
     <groups>
     </groups>
-    <test started-at="2018-12-07T07:10:45Z" name=" Test Suite Begin..." finished-at="2018-12-07T07:11:48Z" duration-ms="62308">
+    <test started-at="2018-12-14T12:36:15Z" name=" Test Suites Report" finished-at="2018-12-14T12:37:21Z" duration-ms="65497">
       <class name="com.actions.ExecuteTestCases">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:40:46Z" name="setup" test-instance-name=" " finished-at="2018-12-07T12:40:53Z" duration-ms="7408" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:06:15Z" name="setup" test-instance-name=" " finished-at="2018-12-14T18:06:25Z" duration-ms="9897" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[getting total number of rows]]>
@@ -572,43 +578,49 @@
               <![CDATA[getting total number of rows]]>
             </line>
             <line>
-              <![CDATA[sheetNameReuse_Logout----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[getting total number of rows]]>
+            </line>
+            <line>
+              <![CDATA[sheetNameReuse_Logout----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
             </line>
             <line>
               <![CDATA[getting total number of columns]]>
             </line>
             <line>
-              <![CDATA[sheetNameBookAppointment----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+              <![CDATA[sheetNameBookAppointment----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
             </line>
             <line>
               <![CDATA[getting total number of columns]]>
             </line>
             <line>
-              <![CDATA[sheetNameCapturedObjectProperties----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+              <![CDATA[sheetNameCapturedObjectProperties----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
             </line>
             <line>
               <![CDATA[getting total number of columns]]>
             </line>
             <line>
-              <![CDATA[sheetNameReuse_Login----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+              <![CDATA[sheetNameReuse_Login----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
             </line>
             <line>
               <![CDATA[getting total number of columns]]>
             </line>
             <line>
-              <![CDATA[sheetNamelogin----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+              <![CDATA[sheetNamelogin----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
             </line>
             <line>
               <![CDATA[getting total number of columns]]>
             </line>
             <line>
-              <![CDATA[sheetNameBookAppointment_DS----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+              <![CDATA[sheetNameBookAppointment_DS----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
             </line>
             <line>
               <![CDATA[getting total number of columns]]>
             </line>
             <line>
-              <![CDATA[sheetNameConstants----sheetName, pathOFFileTestSuites&TestCases\TestCases2.xlsx]]>
+              <![CDATA[sheetNameConstants----sheetName, pathOFFileTestSuites&TestCases\TestCasesComplete.xlsx]]>
             </line>
             <line>
               <![CDATA[getting total number of columns]]>
@@ -618,18 +630,18 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="testData([Ljava.lang.Object;)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:40:53Z" name="testData" test-instance-name=" " finished-at="2018-12-07T12:40:53Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="testData([Ljava.lang.Object;)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:06:25Z" name="testData" test-instance-name=" " finished-at="2018-12-14T18:06:25Z" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[Ljava.lang.Object;@16cdfa95]]>
+                <![CDATA[[Ljava.lang.Object;@51f7309a]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testData -->
-        <test-method signature="InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:40:53Z" name="Reuse_Logout" data-provider="dp" test-instance-name=" " finished-at="2018-12-07T12:41:07Z" duration-ms="14086" status="PASS">
+        <test-method signature="Test(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:06:25Z" name="Test" data-provider="dp" test-instance-name=" " finished-at="2018-12-14T18:06:40Z" duration-ms="14411" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -717,22 +729,22 @@
               <![CDATA[																		]]>
             </line>
           </reporter-output>
-        </test-method> <!-- Reuse_Logout -->
-        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:41:07Z" name="setResultTestName" test-instance-name=" " finished-at="2018-12-07T12:41:07Z" duration-ms="1" status="PASS">
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:06:40Z" name="setResultTestName" test-instance-name=" " finished-at="2018-12-14T18:06:40Z" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Reuse_Login status=SUCCESS method=ExecuteTestCases.InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338] output=<=========================Begin Of TestStep=========================>]]]>
+                <![CDATA[[TestResult name=Reuse_Login status=SUCCESS method=ExecuteTestCases.Test(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec] output=<=========================Begin Of TestStep=========================>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[Test Case Name :Reuse_Login]]>
+              <![CDATA[Test Case Name :Test]]>
             </line>
           </reporter-output>
         </test-method> <!-- setResultTestName -->
-        <test-method signature="InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:41:07Z" name="Reuse_Logout" data-provider="dp" test-instance-name=" " finished-at="2018-12-07T12:41:34Z" duration-ms="27001" status="PASS">
+        <test-method signature="Test(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:06:40Z" name="Test" data-provider="dp" test-instance-name=" " finished-at="2018-12-14T18:07:07Z" duration-ms="27247" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -817,7 +829,7 @@
               <![CDATA[Action Keyword =====================>enterText]]>
             </line>
             <line>
-              <![CDATA[InputData =====================>[17/12/2018]]]>
+              <![CDATA[InputData =====================>[24/12/2018]]]>
             </line>
             <line>
               <![CDATA[testCaseExecution ====>1]]>
@@ -914,44 +926,33 @@
               <![CDATA[																		]]>
             </line>
           </reporter-output>
-        </test-method> <!-- Reuse_Logout -->
-        <test-method is-config="true" signature="testData([Ljava.lang.Object;)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:41:07Z" name="testData" test-instance-name=" " finished-at="2018-12-07T12:41:07Z" duration-ms="0" status="PASS">
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="testData([Ljava.lang.Object;)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:06:40Z" name="testData" test-instance-name=" " finished-at="2018-12-14T18:06:40Z" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[Ljava.lang.Object;@33262db9]]>
+                <![CDATA[[Ljava.lang.Object;@74ad0a11]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testData -->
-        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:41:34Z" name="setResultTestName" test-instance-name=" " finished-at="2018-12-07T12:41:34Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:07:07Z" name="setResultTestName" test-instance-name=" " finished-at="2018-12-14T18:07:07Z" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=BookAppointment status=SUCCESS method=ExecuteTestCases.InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338] output=<=========================Begin Of TestStep=========================>]]]>
+                <![CDATA[[TestResult name=BookAppointment status=SUCCESS method=ExecuteTestCases.Test(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec] output=<=========================Begin Of TestStep=========================>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[Test Case Name :BookAppointment]]>
+              <![CDATA[Test Case Name :Test]]>
             </line>
           </reporter-output>
         </test-method> <!-- setResultTestName -->
-        <test-method is-config="true" signature="testData([Ljava.lang.Object;)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:41:34Z" name="testData" test-instance-name=" " finished-at="2018-12-07T12:41:34Z" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[Ljava.lang.Object;@1f065908]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testData -->
-        <test-method signature="InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:41:34Z" name="Reuse_Logout" data-provider="dp" test-instance-name=" " finished-at="2018-12-07T12:41:48Z" duration-ms="13775" status="PASS">
+        <test-method signature="Test(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:07:07Z" name="Test" data-provider="dp" test-instance-name=" " finished-at="2018-12-14T18:07:21Z" duration-ms="13910" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1039,26 +1040,37 @@
               <![CDATA[																		]]>
             </line>
           </reporter-output>
-        </test-method> <!-- Reuse_Logout -->
-        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:41:48Z" name="setResultTestName" test-instance-name=" " finished-at="2018-12-07T12:41:48Z" duration-ms="3" status="PASS">
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="testData([Ljava.lang.Object;)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:07:07Z" name="testData" test-instance-name=" " finished-at="2018-12-14T18:07:07Z" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=Reuse_Logout status=SUCCESS method=ExecuteTestCases.InitialTest(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@2fdde338] output=<=========================Begin Of TestStep=========================>]]]>
+                <![CDATA[[Ljava.lang.Object;@47729d43]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method is-config="true" signature="setResultTestName(org.testng.ITestResult)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:07:21Z" name="setResultTestName" test-instance-name=" " finished-at="2018-12-14T18:07:21Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Reuse_Logout status=SUCCESS method=ExecuteTestCases.Test(java.lang.String)[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec] output=<=========================Begin Of TestStep=========================>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[Test Case Name :Reuse_Logout]]>
+              <![CDATA[Test Case Name :Test]]>
             </line>
           </reporter-output>
         </test-method> <!-- setResultTestName -->
-        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.actions.ExecuteTestCases@2fdde338]" started-at="2018-12-07T12:41:48Z" name="cleanup" test-instance-name=" " finished-at="2018-12-07T12:41:48Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.actions.ExecuteTestCases@4360c5ec]" started-at="2018-12-14T18:07:21Z" name="cleanup" test-instance-name=" " finished-at="2018-12-14T18:07:21Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanup -->
       </class> <!-- com.actions.ExecuteTestCases -->
-    </test> <!--  Test Suite Begin... -->
-  </suite> <!-- Test Suite -->
+    </test> <!--  Test Suites Report -->
+  </suite> <!-- Test Suite Report -->
 </testng-results>

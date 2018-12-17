@@ -66,22 +66,25 @@ public class MainTestNG {
 		
 		TestNG objTestNG = new TestNG();
 		XmlSuite TSuite = new XmlSuite();
-		TSuite.setName("Test Suite");
+		TSuite.setName("Test Suite Report");
 		TSuite.addListener("org.uncommons.reportng.HTMLReporter");
 		TSuite.addListener("org.uncommons.reportng.JUnitXMLReporter");
 		TSuite.addListener("util.TestListener");
 		objTestNG.setOutputDirectory("test-output");
 		XmlTest myTest = new XmlTest(TSuite);
-		myTest.setName(" Test Suite Begin...");
+		myTest.setName(" Test Suites Report");
 		List<XmlClass> myClasses = new ArrayList<XmlClass>();
 		myClasses.add(new XmlClass("com.actions.ExecuteTestCases"));
 		myTest.setXmlClasses(myClasses);
 		List<XmlTest> myTests = new ArrayList<XmlTest>();
+		
 		myTests.add(myTest);
+		
 		TSuite.setTests(myTests);
 		List<XmlSuite> mySuites = new ArrayList<XmlSuite>();
 		mySuites.add(TSuite);
 		objTestNG.setXmlSuites(mySuites);
+		System.out.println("list xml test "+mySuites);
 		objTestNG.setUseDefaultListeners(true);
 		objTestNG.run();
 

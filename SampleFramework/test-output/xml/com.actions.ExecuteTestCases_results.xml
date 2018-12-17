@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name=" Test Suite Begin..."
+<testsuite name=" Test Suites Report"
            tests="3"
            failures="0"
            errors="0"
            skipped="0"
-           time="54.862">
+           time="55.568">
   <properties />
   
   
-            <testcase name="BookAppointment" time="27.001" classname="com.actions.ExecuteTestCases ( )" />
-                <testcase name="Reuse_Logout" time="13.775" classname="com.actions.ExecuteTestCases ( )" />
-                <testcase name="Reuse_Login" time="14.086" classname="com.actions.ExecuteTestCases ( )" />
+            <testcase name="BookAppointment" time="27.247" classname="com.actions.ExecuteTestCases ( )" />
+                <testcase name="Reuse_Logout" time="13.910" classname="com.actions.ExecuteTestCases ( )" />
+                <testcase name="Reuse_Login" time="14.411" classname="com.actions.ExecuteTestCases ( )" />
       
 </testsuite>

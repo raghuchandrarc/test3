@@ -206,7 +206,7 @@ public class ExecuteTestCases implements ITest {
 	 * @throws Exception 
 	 */
 	@Test(dataProvider = "dp")
-	public void InitialTest(String testName) throws Exception {
+	public void Test(String testName) throws Exception {
 		MainTestNG.LOGGER.info("****************************************Begin***********************************************************");
 		System.out.println    (" 																				  ");
 		System.out.println    ("Reading test case "+testName);
@@ -244,7 +244,9 @@ public class ExecuteTestCases implements ITest {
 			BaseTestMethod bm = (BaseTestMethod) result.getMethod();
 			Field f = bm.getClass().getSuperclass().getDeclaredField("m_methodName");
 			f.setAccessible(true);
-			f.set(bm, mTestCaseName);
+			//f.set(bm, mTestCaseName);
+			
+			//f.set(bm,mTestCaseName);
 			Reporter.log("Test Case Name :" + bm.getMethodName());
 			this.mTestCaseName = " ";
 
@@ -254,6 +256,27 @@ public class ExecuteTestCases implements ITest {
 		}
 		
 	}
+	/*@AfterMethod
+	public void setResultTestName(ITestResult result) {
+		try {
+			BaseTestMethod bm = (BaseTestMethod) result.getMethod();
+			System.out.println("11111111 "+bm.getMethodName());
+			System.out.println("22222222 "+bm.getXmlTest());
+			Field f = bm.getClass().getSuperclass().getDeclaredField("m_methodName");
+			f.setAccessible(true);
+			System.out.println("2222222 "+f.getName());
+			//f.set(bm, mTestCaseName);
+			
+			//f.set(bm.getDate(),mTestCaseName);
+			Reporter.log("Test Case Name :" + bm.getMethodName());
+			this.mTestCaseName = " ";
+
+		} catch (Exception ex) {
+			stack(ex);
+			Reporter.log("exception " + ex.getMessage());
+		}
+		
+	}*/
 	
 	
 

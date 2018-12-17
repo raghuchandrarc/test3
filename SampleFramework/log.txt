@@ -1,414 +1,414 @@
-Dec 07, 2018 12:40:45 PM com.driver.MainTestNG main
+Dec 14, 2018 6:06:15 PM com.driver.MainTestNG main
 INFO: Logger Name: com.driver.MainTestNG
-Dec 07, 2018 12:40:46 PM com.actions.ExecuteTestCases setup
+Dec 14, 2018 6:06:15 PM com.actions.ExecuteTestCases setup
 INFO: **************************Begin Read Excel Data *********************************
-Dec 07, 2018 12:40:46 PM com.actions.ExecuteTestCases setup
+Dec 14, 2018 6:06:15 PM com.actions.ExecuteTestCases setup
 INFO: com.actions.ExecuteTestCases   setup() method called
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
-INFO: testCasePath==TestSuites&TestCases\TestCases2.xlsx
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
+INFO: testCasePath==TestSuites&TestCases\TestCasesComplete.xlsx
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: **************************End Read Excel Data *********************************
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: total rows= 14
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: Login  InputPwd  //input[@id='txt-password']  XPATH
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: Login  Clicklogin  //button[@id='btn-login']  XPATH
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  hospitalreadmission  chk_hospotal_readmission  ID
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  healthcarepgm  radio_program_medicaid  ID
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  visitdate  txt_visit_date  ID
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  comment  txt_comment  ID
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  BookAppointment  btn-book-appointment  ID
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  confirm appointment  //h2[contains(text(),'Appointment Confirmation')]  XPATH
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  logoutmenu  //a[@id='menu-toggle']  XPATH
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  logout  //a[contains(text(),'Logout')]  XPATH
-Dec 07, 2018 12:40:47 PM util.ExcelAction readCapturedObjectProperties
+Dec 14, 2018 6:06:17 PM util.ExcelAction readCapturedObjectProperties
 INFO: BookAppointmentPage  closebrowser  NA  NA
-Dec 07, 2018 12:40:51 PM com.actions.ExecuteTestCases ie
+Dec 14, 2018 6:06:22 PM com.actions.ExecuteTestCases ie
 INFO: IE launch
-Dec 07, 2018 12:40:51 PM com.actions.ExecuteTestCases setup
+Dec 14, 2018 6:06:22 PM com.actions.ExecuteTestCases setup
 INFO: https://katalon-demo-cura.herokuapp.com/profile.php#login
-Dec 07, 2018 12:40:53 PM com.actions.ExecuteTestCases regression
-INFO: com.actions.ExecuteTestCases TestCases to be executed    [[Ljava.lang.Object;@81f6207
-Dec 07, 2018 12:40:53 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:06:25 PM com.actions.ExecuteTestCases regression
+INFO: com.actions.ExecuteTestCases TestCases to be executed    [[Ljava.lang.Object;@3fa0fa85
+Dec 14, 2018 6:06:25 PM com.actions.ExecuteTestCases Test
 INFO: ****************************************Begin***********************************************************
-Dec 07, 2018 12:40:53 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:06:25 PM com.actions.ExecuteTestCases Test
 INFO: com.actions.ExecuteTestCases  @Test method called    Reuse_Login
-Dec 07, 2018 12:40:53 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:06:25 PM com.actions.ExecuteTestCases Test
 INFO: testSuiteIterate() calling
-Dec 07, 2018 12:40:53 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:25 PM util.ExcelAction testSuiteIterate
 INFO: testSuiteIterate() called  Reuse_Login
-Dec 07, 2018 12:40:53 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:25 PM util.ExcelAction testSuiteIterate
 INFO: columnValue added newly numberOfTimesExecution===[John Doe]
-Dec 07, 2018 12:40:53 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:25 PM util.ExcelAction testSuiteIterate
 INFO: testCaseExecution==1
-Dec 07, 2018 12:40:53 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:26 PM util.ExcelAction readLocators
 INFO: Login
-Dec 07, 2018 12:40:53 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:26 PM util.ExcelAction readLocators
 INFO: Inputusername
-Dec 07, 2018 12:40:53 PM util.ExcelAction readLocators
-INFO: objects{Clicklogin=com.model.CapturedObjectPropModel@657aec23, InputPwd=com.model.CapturedObjectPropModel@678975e6, Inputusername=com.model.CapturedObjectPropModel@38829076}
-Dec 07, 2018 12:40:53 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@38829076
-Dec 07, 2018 12:40:53 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:26 PM util.ExcelAction readLocators
+INFO: objects{Clicklogin=com.model.CapturedObjectPropModel@3a0f3232, InputPwd=com.model.CapturedObjectPropModel@3978746e, Inputusername=com.model.CapturedObjectPropModel@3364385f}
+Dec 14, 2018 6:06:26 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@3364385f
+Dec 14, 2018 6:06:26 PM util.ExcelAction readLocators
 INFO: Inputusername
-Dec 07, 2018 12:40:53 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:26 PM util.ExcelAction readLocators
 INFO: c.getPage()=Login
-Dec 07, 2018 12:40:53 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:26 PM util.ExcelAction readLocators
 INFO: locators[XPATH, //input[@id='txt-username']]
-Dec 07, 2018 12:40:53 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:26 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:40:53 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:26 PM util.ExcelAction testSuiteIterate
 INFO: methodType=XPATH
-Dec 07, 2018 12:40:53 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:26 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=//input[@id='txt-username']
-Dec 07, 2018 12:40:53 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:06:26 PM com.actions.MethodType methodExecutor
 INFO: methodType= XPATHobjectLocators=//input[@id='txt-username']actionType=enterTextdata= John Doe
-Dec 07, 2018 12:40:57 PM com.actions.MethodType enterText
+Dec 14, 2018 6:06:29 PM com.actions.MethodType enterText
 INFO:  inside enterText(), data to entered into the text==John Doe
-Dec 07, 2018 12:40:57 PM com.actions.MethodType enterText
+Dec 14, 2018 6:06:30 PM com.actions.MethodType enterText
 INFO: enterText() exit
-Dec 07, 2018 12:40:57 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:30 PM util.ExcelAction readLocators
 INFO: Login
-Dec 07, 2018 12:40:57 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:30 PM util.ExcelAction readLocators
 INFO: InputPwd
-Dec 07, 2018 12:40:57 PM util.ExcelAction readLocators
-INFO: objects{Clicklogin=com.model.CapturedObjectPropModel@657aec23, InputPwd=com.model.CapturedObjectPropModel@678975e6, Inputusername=com.model.CapturedObjectPropModel@38829076}
-Dec 07, 2018 12:40:57 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@678975e6
-Dec 07, 2018 12:40:57 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:30 PM util.ExcelAction readLocators
+INFO: objects{Clicklogin=com.model.CapturedObjectPropModel@3a0f3232, InputPwd=com.model.CapturedObjectPropModel@3978746e, Inputusername=com.model.CapturedObjectPropModel@3364385f}
+Dec 14, 2018 6:06:30 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@3978746e
+Dec 14, 2018 6:06:30 PM util.ExcelAction readLocators
 INFO: InputPwd
-Dec 07, 2018 12:40:57 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:30 PM util.ExcelAction readLocators
 INFO: c.getPage()=Login
-Dec 07, 2018 12:40:57 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:30 PM util.ExcelAction readLocators
 INFO: locators[XPATH, //input[@id='txt-password']]
-Dec 07, 2018 12:40:57 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:30 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:40:57 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:30 PM util.ExcelAction testSuiteIterate
 INFO: methodType=XPATH
-Dec 07, 2018 12:40:57 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:30 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=//input[@id='txt-password']
-Dec 07, 2018 12:40:57 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:06:30 PM com.actions.MethodType methodExecutor
 INFO: methodType= XPATHobjectLocators=//input[@id='txt-password']actionType=enterTextdata= ThisIsNotAPassword
-Dec 07, 2018 12:41:00 PM com.actions.MethodType enterText
+Dec 14, 2018 6:06:33 PM com.actions.MethodType enterText
 INFO:  inside enterText(), data to entered into the text==ThisIsNotAPassword
-Dec 07, 2018 12:41:01 PM com.actions.MethodType enterText
+Dec 14, 2018 6:06:34 PM com.actions.MethodType enterText
 INFO: enterText() exit
-Dec 07, 2018 12:41:01 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:34 PM util.ExcelAction readLocators
 INFO: Login
-Dec 07, 2018 12:41:01 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:34 PM util.ExcelAction readLocators
 INFO: Clicklogin
-Dec 07, 2018 12:41:01 PM util.ExcelAction readLocators
-INFO: objects{Clicklogin=com.model.CapturedObjectPropModel@657aec23, InputPwd=com.model.CapturedObjectPropModel@678975e6, Inputusername=com.model.CapturedObjectPropModel@38829076}
-Dec 07, 2018 12:41:01 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@657aec23
-Dec 07, 2018 12:41:01 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:34 PM util.ExcelAction readLocators
+INFO: objects{Clicklogin=com.model.CapturedObjectPropModel@3a0f3232, InputPwd=com.model.CapturedObjectPropModel@3978746e, Inputusername=com.model.CapturedObjectPropModel@3364385f}
+Dec 14, 2018 6:06:34 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@3a0f3232
+Dec 14, 2018 6:06:34 PM util.ExcelAction readLocators
 INFO: Clicklogin
-Dec 07, 2018 12:41:01 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:34 PM util.ExcelAction readLocators
 INFO: c.getPage()=Login
-Dec 07, 2018 12:41:01 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:34 PM util.ExcelAction readLocators
 INFO: locators[XPATH, //button[@id='btn-login']]
-Dec 07, 2018 12:41:01 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:34 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:01 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:34 PM util.ExcelAction testSuiteIterate
 INFO: methodType=XPATH
-Dec 07, 2018 12:41:01 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:34 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=//button[@id='btn-login']
-Dec 07, 2018 12:41:01 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:06:34 PM com.actions.MethodType methodExecutor
 INFO: methodType= XPATHobjectLocators=//button[@id='btn-login']actionType=clickdata= Clicked
-Dec 07, 2018 12:41:07 PM com.actions.MethodType click
+Dec 14, 2018 6:06:40 PM com.actions.MethodType click
 INFO: click method started//button[@id='btn-login']
-Dec 07, 2018 12:41:07 PM com.actions.MethodType click
+Dec 14, 2018 6:06:40 PM com.actions.MethodType click
 INFO: click method completed
-Dec 07, 2018 12:41:07 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:06:40 PM com.actions.ExecuteTestCases Test
 INFO: ****************************************End***********************************************************
-Dec 07, 2018 12:41:07 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:06:40 PM com.actions.ExecuteTestCases Test
 INFO: ****************************************Begin***********************************************************
-Dec 07, 2018 12:41:07 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:06:40 PM com.actions.ExecuteTestCases Test
 INFO: com.actions.ExecuteTestCases  @Test method called    BookAppointment
-Dec 07, 2018 12:41:07 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:06:40 PM com.actions.ExecuteTestCases Test
 INFO: testSuiteIterate() calling
-Dec 07, 2018 12:41:07 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:40 PM util.ExcelAction testSuiteIterate
 INFO: testSuiteIterate() called  BookAppointment
-Dec 07, 2018 12:41:07 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:40 PM util.ExcelAction testSuiteIterate
 INFO: columnValue added newly numberOfTimesExecution===[Hongkong CURA Healthcare Center]
-Dec 07, 2018 12:41:07 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:40 PM util.ExcelAction testSuiteIterate
 INFO: testCaseExecution==1
-Dec 07, 2018 12:41:07 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:40 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:07 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:40 PM util.ExcelAction readLocators
 INFO: select facility
-Dec 07, 2018 12:41:07 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:07 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@1750390b
-Dec 07, 2018 12:41:07 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:40 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:06:40 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@36dd533e
+Dec 14, 2018 6:06:40 PM util.ExcelAction readLocators
 INFO: select facility
-Dec 07, 2018 12:41:07 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:40 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:07 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:40 PM util.ExcelAction readLocators
 INFO: locators[XPATH, //select[@id='combo_facility']]
-Dec 07, 2018 12:41:07 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:40 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:07 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:40 PM util.ExcelAction testSuiteIterate
 INFO: methodType=XPATH
-Dec 07, 2018 12:41:07 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:40 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=//select[@id='combo_facility']
-Dec 07, 2018 12:41:07 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:06:40 PM com.actions.MethodType methodExecutor
 INFO: methodType= XPATHobjectLocators=//select[@id='combo_facility']actionType=selectDropDownByVisibleTextdata= Hongkong CURA Healthcare Center
-Dec 07, 2018 12:41:10 PM com.actions.MethodType selectDropDownByVisibleText
+Dec 14, 2018 6:06:43 PM com.actions.MethodType selectDropDownByVisibleText
 INFO: inside selectDropDownByVisibleText
-Dec 07, 2018 12:41:13 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:46 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:13 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:46 PM util.ExcelAction readLocators
 INFO: hospitalreadmission
-Dec 07, 2018 12:41:13 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:13 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@275fbef2
-Dec 07, 2018 12:41:13 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:46 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:06:46 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@39983f54
+Dec 14, 2018 6:06:46 PM util.ExcelAction readLocators
 INFO: hospitalreadmission
-Dec 07, 2018 12:41:13 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:46 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:13 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:46 PM util.ExcelAction readLocators
 INFO: locators[ID, chk_hospotal_readmission]
-Dec 07, 2018 12:41:13 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:46 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:13 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:46 PM util.ExcelAction testSuiteIterate
 INFO: methodType=ID
-Dec 07, 2018 12:41:13 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:46 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=chk_hospotal_readmission
-Dec 07, 2018 12:41:13 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:06:46 PM com.actions.MethodType methodExecutor
 INFO: methodType= IDobjectLocators=chk_hospotal_readmissionactionType=clickdata= Clicked
-Dec 07, 2018 12:41:18 PM com.actions.MethodType click
+Dec 14, 2018 6:06:51 PM com.actions.MethodType click
 INFO: click method startedchk_hospotal_readmission
-Dec 07, 2018 12:41:18 PM com.actions.MethodType click
+Dec 14, 2018 6:06:51 PM com.actions.MethodType click
 INFO: click method completed
-Dec 07, 2018 12:41:18 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:51 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:18 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:51 PM util.ExcelAction readLocators
 INFO: healthcarepgm
-Dec 07, 2018 12:41:18 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:18 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@46b6da83
-Dec 07, 2018 12:41:18 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:51 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:06:51 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@22dc2c2a
+Dec 14, 2018 6:06:51 PM util.ExcelAction readLocators
 INFO: healthcarepgm
-Dec 07, 2018 12:41:18 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:51 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:18 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:51 PM util.ExcelAction readLocators
 INFO: locators[ID, radio_program_medicaid]
-Dec 07, 2018 12:41:18 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:51 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:18 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:51 PM util.ExcelAction testSuiteIterate
 INFO: methodType=ID
-Dec 07, 2018 12:41:18 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:51 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=radio_program_medicaid
-Dec 07, 2018 12:41:18 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:06:51 PM com.actions.MethodType methodExecutor
 INFO: methodType= IDobjectLocators=radio_program_medicaidactionType=selectRadioButtondata= Clicked
-Dec 07, 2018 12:41:19 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:52 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:19 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:52 PM util.ExcelAction readLocators
 INFO: visitdate
-Dec 07, 2018 12:41:19 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:19 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@4f5fbd45
-Dec 07, 2018 12:41:19 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:52 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:06:52 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@7176f926
+Dec 14, 2018 6:06:52 PM util.ExcelAction readLocators
 INFO: visitdate
-Dec 07, 2018 12:41:19 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:52 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:19 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:52 PM util.ExcelAction readLocators
 INFO: locators[ID, txt_visit_date]
-Dec 07, 2018 12:41:19 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:52 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:19 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:52 PM util.ExcelAction testSuiteIterate
 INFO: methodType=ID
-Dec 07, 2018 12:41:19 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:52 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=txt_visit_date
-Dec 07, 2018 12:41:19 PM com.actions.MethodType methodExecutor
-INFO: methodType= IDobjectLocators=txt_visit_dateactionType=enterTextdata= 17/12/2018
-Dec 07, 2018 12:41:22 PM com.actions.MethodType enterText
-INFO:  inside enterText(), data to entered into the text==17/12/2018
-Dec 07, 2018 12:41:23 PM com.actions.MethodType enterText
+Dec 14, 2018 6:06:52 PM com.actions.MethodType methodExecutor
+INFO: methodType= IDobjectLocators=txt_visit_dateactionType=enterTextdata= 24/12/2018
+Dec 14, 2018 6:06:55 PM com.actions.MethodType enterText
+INFO:  inside enterText(), data to entered into the text==24/12/2018
+Dec 14, 2018 6:06:56 PM com.actions.MethodType enterText
 INFO: enterText() exit
-Dec 07, 2018 12:41:23 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:56 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:23 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:56 PM util.ExcelAction readLocators
 INFO: comment
-Dec 07, 2018 12:41:23 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:23 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@5bc31738
-Dec 07, 2018 12:41:23 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:56 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:06:56 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@27d3d73a
+Dec 14, 2018 6:06:56 PM util.ExcelAction readLocators
 INFO: comment
-Dec 07, 2018 12:41:23 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:56 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:23 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:56 PM util.ExcelAction readLocators
 INFO: locators[ID, txt_comment]
-Dec 07, 2018 12:41:23 PM util.ExcelAction readLocators
+Dec 14, 2018 6:06:56 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:23 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:56 PM util.ExcelAction testSuiteIterate
 INFO: methodType=ID
-Dec 07, 2018 12:41:23 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:06:56 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=txt_comment
-Dec 07, 2018 12:41:23 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:06:56 PM com.actions.MethodType methodExecutor
 INFO: methodType= IDobjectLocators=txt_commentactionType=enterTextdata= Blood pressure Electrocardiogram(ECG)
  blood sugar level
-Dec 07, 2018 12:41:26 PM com.actions.MethodType enterText
+Dec 14, 2018 6:06:59 PM com.actions.MethodType enterText
 INFO:  inside enterText(), data to entered into the text==Blood pressure Electrocardiogram(ECG)
  blood sugar level
-Dec 07, 2018 12:41:27 PM com.actions.MethodType enterText
+Dec 14, 2018 6:07:00 PM com.actions.MethodType enterText
 INFO: enterText() exit
-Dec 07, 2018 12:41:27 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:00 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:27 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:00 PM util.ExcelAction readLocators
 INFO: BookAppointment
-Dec 07, 2018 12:41:27 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:27 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@64e61f81
-Dec 07, 2018 12:41:27 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:00 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:07:00 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@cb4270
+Dec 14, 2018 6:07:00 PM util.ExcelAction readLocators
 INFO: BookAppointment
-Dec 07, 2018 12:41:27 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:00 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:27 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:00 PM util.ExcelAction readLocators
 INFO: locators[ID, btn-book-appointment]
-Dec 07, 2018 12:41:27 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:00 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:27 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:00 PM util.ExcelAction testSuiteIterate
 INFO: methodType=ID
-Dec 07, 2018 12:41:27 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:00 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=btn-book-appointment
-Dec 07, 2018 12:41:27 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:07:00 PM com.actions.MethodType methodExecutor
 INFO: methodType= IDobjectLocators=btn-book-appointmentactionType=clickdata= Clicked
-Dec 07, 2018 12:41:33 PM com.actions.MethodType click
+Dec 14, 2018 6:07:06 PM com.actions.MethodType click
 INFO: click method startedbtn-book-appointment
-Dec 07, 2018 12:41:33 PM com.actions.MethodType click
+Dec 14, 2018 6:07:06 PM com.actions.MethodType click
 INFO: click method completed
-Dec 07, 2018 12:41:33 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:06 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:33 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:06 PM util.ExcelAction readLocators
 INFO: confirm appointment
-Dec 07, 2018 12:41:33 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:33 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@4d4df7fb
-Dec 07, 2018 12:41:33 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:06 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:07:06 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@7bcb2fde
+Dec 14, 2018 6:07:06 PM util.ExcelAction readLocators
 INFO: confirm appointment
-Dec 07, 2018 12:41:33 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:06 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:33 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:06 PM util.ExcelAction readLocators
 INFO: locators[XPATH, //h2[contains(text(),'Appointment Confirmation')]]
-Dec 07, 2018 12:41:33 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:06 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:34 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:06 PM util.ExcelAction testSuiteIterate
 INFO: methodType=XPATH
-Dec 07, 2018 12:41:34 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:06 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=//h2[contains(text(),'Appointment Confirmation')]
-Dec 07, 2018 12:41:34 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:07:06 PM com.actions.MethodType methodExecutor
 INFO: methodType= XPATHobjectLocators=//h2[contains(text(),'Appointment Confirmation')]actionType=verifyTextdata= Appointment Confirmation
-Dec 07, 2018 12:41:34 PM com.actions.MethodType verifyText
+Dec 14, 2018 6:07:07 PM com.actions.MethodType verifyText
 INFO: model.getElement().get(0).getText()**********Appointment Confirmation
-Dec 07, 2018 12:41:34 PM com.actions.MethodType verifyText
+Dec 14, 2018 6:07:07 PM com.actions.MethodType verifyText
 INFO: model.getData()**********Appointment Confirmation
-Dec 07, 2018 12:41:34 PM com.actions.MethodType verifyText
+Dec 14, 2018 6:07:07 PM com.actions.MethodType verifyText
 INFO: verify text completed
-Dec 07, 2018 12:41:34 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:07:07 PM com.actions.ExecuteTestCases Test
 INFO: ****************************************End***********************************************************
-Dec 07, 2018 12:41:34 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:07:07 PM com.actions.ExecuteTestCases Test
 INFO: ****************************************Begin***********************************************************
-Dec 07, 2018 12:41:34 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:07:07 PM com.actions.ExecuteTestCases Test
 INFO: com.actions.ExecuteTestCases  @Test method called    Reuse_Logout
-Dec 07, 2018 12:41:34 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:07:07 PM com.actions.ExecuteTestCases Test
 INFO: testSuiteIterate() calling
-Dec 07, 2018 12:41:34 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:07 PM util.ExcelAction testSuiteIterate
 INFO: testSuiteIterate() called  Reuse_Logout
-Dec 07, 2018 12:41:34 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:07 PM util.ExcelAction testSuiteIterate
 INFO: columnValue added newly numberOfTimesExecution===[Clicked]
-Dec 07, 2018 12:41:34 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:07 PM util.ExcelAction testSuiteIterate
 INFO: testCaseExecution==1
-Dec 07, 2018 12:41:34 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:07 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:34 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:07 PM util.ExcelAction readLocators
 INFO: logoutmenu
-Dec 07, 2018 12:41:34 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:34 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@45ad4e0d
-Dec 07, 2018 12:41:34 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:07 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:07:07 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@4ab13090
+Dec 14, 2018 6:07:07 PM util.ExcelAction readLocators
 INFO: logoutmenu
-Dec 07, 2018 12:41:34 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:07 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:34 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:07 PM util.ExcelAction readLocators
 INFO: locators[XPATH, //a[@id='menu-toggle']]
-Dec 07, 2018 12:41:34 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:07 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:34 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:07 PM util.ExcelAction testSuiteIterate
 INFO: methodType=XPATH
-Dec 07, 2018 12:41:34 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:07 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=//a[@id='menu-toggle']
-Dec 07, 2018 12:41:34 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:07:07 PM com.actions.MethodType methodExecutor
 INFO: methodType= XPATHobjectLocators=//a[@id='menu-toggle']actionType=clickdata= Clicked
-Dec 07, 2018 12:41:40 PM com.actions.MethodType click
+Dec 14, 2018 6:07:13 PM com.actions.MethodType click
 INFO: click method started//a[@id='menu-toggle']
-Dec 07, 2018 12:41:40 PM com.actions.MethodType click
+Dec 14, 2018 6:07:13 PM com.actions.MethodType click
 INFO: click method completed
-Dec 07, 2018 12:41:40 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:13 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:40 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:13 PM util.ExcelAction readLocators
 INFO: logout
-Dec 07, 2018 12:41:40 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:40 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@820190a
-Dec 07, 2018 12:41:40 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:13 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:07:13 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@1e65f5c5
+Dec 14, 2018 6:07:13 PM util.ExcelAction readLocators
 INFO: logout
-Dec 07, 2018 12:41:40 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:13 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:40 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:13 PM util.ExcelAction readLocators
 INFO: locators[XPATH, //a[contains(text(),'Logout')]]
-Dec 07, 2018 12:41:40 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:13 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:40 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:13 PM util.ExcelAction testSuiteIterate
 INFO: methodType=XPATH
-Dec 07, 2018 12:41:40 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:13 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=//a[contains(text(),'Logout')]
-Dec 07, 2018 12:41:40 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:07:13 PM com.actions.MethodType methodExecutor
 INFO: methodType= XPATHobjectLocators=//a[contains(text(),'Logout')]actionType=clickdata= Clicked
-Dec 07, 2018 12:41:47 PM com.actions.MethodType click
+Dec 14, 2018 6:07:20 PM com.actions.MethodType click
 INFO: click method started//a[contains(text(),'Logout')]
-Dec 07, 2018 12:41:47 PM com.actions.MethodType click
+Dec 14, 2018 6:07:20 PM com.actions.MethodType click
 INFO: click method completed
-Dec 07, 2018 12:41:47 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:20 PM util.ExcelAction readLocators
 INFO: BookAppointmentPage
-Dec 07, 2018 12:41:47 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:20 PM util.ExcelAction readLocators
 INFO: closebrowser
-Dec 07, 2018 12:41:47 PM util.ExcelAction readLocators
-INFO: objects{logout=com.model.CapturedObjectPropModel@820190a, select facility=com.model.CapturedObjectPropModel@1750390b, visitdate=com.model.CapturedObjectPropModel@4f5fbd45, logoutmenu=com.model.CapturedObjectPropModel@45ad4e0d, confirm appointment=com.model.CapturedObjectPropModel@4d4df7fb, comment=com.model.CapturedObjectPropModel@5bc31738, closebrowser=com.model.CapturedObjectPropModel@69c42c90, healthcarepgm=com.model.CapturedObjectPropModel@46b6da83, BookAppointment=com.model.CapturedObjectPropModel@64e61f81, hospitalreadmission=com.model.CapturedObjectPropModel@275fbef2}
-Dec 07, 2018 12:41:47 PM util.ExcelAction readLocators
-INFO: namecom.model.CapturedObjectPropModel@69c42c90
-Dec 07, 2018 12:41:47 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:20 PM util.ExcelAction readLocators
+INFO: objects{logout=com.model.CapturedObjectPropModel@1e65f5c5, select facility=com.model.CapturedObjectPropModel@36dd533e, visitdate=com.model.CapturedObjectPropModel@7176f926, logoutmenu=com.model.CapturedObjectPropModel@4ab13090, confirm appointment=com.model.CapturedObjectPropModel@7bcb2fde, comment=com.model.CapturedObjectPropModel@27d3d73a, closebrowser=com.model.CapturedObjectPropModel@612ab52f, healthcarepgm=com.model.CapturedObjectPropModel@22dc2c2a, BookAppointment=com.model.CapturedObjectPropModel@cb4270, hospitalreadmission=com.model.CapturedObjectPropModel@39983f54}
+Dec 14, 2018 6:07:20 PM util.ExcelAction readLocators
+INFO: namecom.model.CapturedObjectPropModel@612ab52f
+Dec 14, 2018 6:07:20 PM util.ExcelAction readLocators
 INFO: closebrowser
-Dec 07, 2018 12:41:47 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:20 PM util.ExcelAction readLocators
 INFO: c.getPage()=BookAppointmentPage
-Dec 07, 2018 12:41:47 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:20 PM util.ExcelAction readLocators
 INFO: locators[NA, NA]
-Dec 07, 2018 12:41:47 PM util.ExcelAction readLocators
+Dec 14, 2018 6:07:20 PM util.ExcelAction readLocators
 INFO: size 2
-Dec 07, 2018 12:41:47 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:20 PM util.ExcelAction testSuiteIterate
 INFO: methodType=NA
-Dec 07, 2018 12:41:47 PM util.ExcelAction testSuiteIterate
+Dec 14, 2018 6:07:20 PM util.ExcelAction testSuiteIterate
 INFO: objectLocators as name=NA
-Dec 07, 2018 12:41:47 PM com.actions.MethodType methodExecutor
+Dec 14, 2018 6:07:20 PM com.actions.MethodType methodExecutor
 INFO: methodType= NAobjectLocators=NAactionType=quitdata= NA
-Dec 07, 2018 12:41:48 PM com.actions.ExecuteTestCases InitialTest
+Dec 14, 2018 6:07:21 PM com.actions.ExecuteTestCases Test
 INFO: ****************************************End***********************************************************
